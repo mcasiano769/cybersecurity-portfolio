@@ -4,8 +4,21 @@ Welcome to my Cybersecurity Portfolio! This repository showcases my projects, sk
 
 ## Professional Statement
 
-I am Miguel, a passionate IT professional with strong problem-solving skills and a detail-oriented approach, currently expanding my expertise by pursuing the Google Cybersecurity Professional Certificate.
+I am Miguel, a passionate IT professional with strong problem-solving skills and a detail-oriented approach, currently expanding my expertise by pursuing the Google Cybersecurity Professional Certificate. I value protecting organizations and their people from cyber threats and am committed to upholding ethical standards to ensure privacy and trust in technology. What excites me most about cybersecurity is the opportunity to apply my troubleshooting experience in defending against evolving threats and making a real impact in securing digital environments. I am eager to contribute my growing knowledge and dedication to organizations that prioritize proactive security and continuous improvement.
 
-I value protecting organizations and their people from cyber threats and am committed to upholding ethical standards to ensure privacy and trust in technology. What excites me most about cybersecurity is the opportunity to apply my troubleshooting experience in defending against evolving threats and making a real impact in securing digital environments.
+## Projects
 
-I am eager to contribute my growing knowledge and dedication to organizations that prioritize proactive security and continuous improvement.
+### 1. Security Audit: Botium Toys
+
+- Detailed audit report
+- Controls assessment checklist
+- Compliance checklist
+- Recommendations summary
+- Audit templates
+
+*(More projects coming soon!)*
+
+## Contact
+
+www.linkedin.com/in/mcasiano
+
